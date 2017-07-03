@@ -1,0 +1,201 @@
+{
+SECTIONS:
+[
+  {
+    index: 0,
+    title: 'Week 1',
+    content: [
+                {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                  completed: 1,
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                  completed: 0.9,
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                completed: 0.7,                  
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                  completed: 0.5,
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                  completed: 0.3,
+                }
+              ],
+  },
+  {
+    index: 1,
+    title: 'Week 2',
+    content: [
+                {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                  completed: 0.0,
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                  completed: 0,
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                completed: 0,                  
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                  completed: 0,
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                  completed: 0,
+                }
+            ]
+  },
+  {
+    index: 2,
+    title: 'Week 3',
+    content: [
+              {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                }
+            ]
+  },
+  {
+    index: 3,
+    title: 'Week 4',
+    content: [
+              {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                }
+            ]
+  },
+  {
+    index: 4,
+    title: 'Week 5',
+    content: [
+              {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                }
+            ]
+  },
+  {
+    index: 5,
+    title: 'Week 6',
+    content: [
+              {
+                  index: 0,
+                  title: 'Monday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Tuesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Wednesday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Thursday',
+                  content: 'Lorem ipsum...',
+                },
+                {
+                  index: 1,
+                  title: 'Friday',
+                  content: 'Lorem ipsum...',
+                }
+            ]
+  },
+]
+}
