@@ -5,34 +5,44 @@
     "title": "Week 1",
     "content": [
                 {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 1,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B01"
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0.9,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B02"
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                "completed": 0.7,                  
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B03"
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0.5,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B04"
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Friday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0.3,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B05"
                 }
               ],
   },
@@ -41,34 +51,44 @@
     "title": "Week 2",
     "content": [
                 {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0.0,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B06"
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B07"
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                "completed": 0,                  
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B08"            
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B09" 
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
-                  "completed": 0,
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B10" 
                 }
             ]
   },
@@ -77,29 +97,44 @@
     "title": "Week 3",
     "content": [
               {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B11" 
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B12" 
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B13" 
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B14" 
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Friday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B15" 
                 }
             ]
   },
@@ -107,30 +142,46 @@
     "index": 3,
     "title": "Week 4",
     "content": [
+              
               {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B16" 
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B17" 
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B18" 
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B19" 
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Friday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B20" 
                 }
             ]
   },
@@ -138,30 +189,46 @@
     "index": 4,
     "title": "Week 5",
     "content": [
+              
               {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B21" 
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B22" 
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B23" 
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B24" 
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Friday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B25" 
                 }
             ]
   },
@@ -169,32 +236,48 @@
     "index": 5,
     "title": "Week 6",
     "content": [
+              
               {
-                  "index": 0,
-                  "title": "Monday",
+                  "index": "0",
+                  "dayInfo": "Monday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B26" 
                 },
                 {
-                  "index": 1,
-                  "title": "Tuesday",
+                  "index": "1",
+                  "dayInfo": "Tuesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B27" 
                 },
                 {
-                  "index": 1,
-                  "title": "Wednesday",
+                  "index": "2",
+                  "dayInfo": "Wednesday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B28" 
                 },
                 {
-                  "index": 1,
-                  "title": "Thursday",
+                  "index": "3",
+                  "dayInfo": "Thursday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B29" 
                 },
                 {
-                  "index": 1,
-                  "title": "Friday",
+                  "index": "4",
+                  "dayInfo": "Friday",
+                  "lessonName": "Lesson name",
                   "content": "Lorem ipsum...",
+                  "thumbnail":"https://peach.blender.org/wp-content/uploads/dl_1080p.jpg?x11217",
+                  "lessonId":"01-B30" 
                 }
             ]
-  },
+  }
 ]
 }
